@@ -1,1 +1,2 @@
 nikita,0702310312,12345,waiter
+jack,0702312456,324567,waiter
